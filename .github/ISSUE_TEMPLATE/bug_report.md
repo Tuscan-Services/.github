@@ -1,9 +1,9 @@
+---
 name: Bug Report
 about: Create a report to help us improve
 title: "[BUG] Short description of the problem"
 labels: bug
 assignees: ''
-
 ---
 
 ### Describe the bug
